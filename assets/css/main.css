@@ -1179,7 +1179,9 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			/* background-image: url("../../images/bg.jpg"); */
-			background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f898e105305087.5f75eb331473c.gif");
+			/* background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f898e105305087.5f75eb331473c.gif"); */
+			background-image: url("https://i.makeagif.com/media/12-04-2018/IxHq7M.gif");
+
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
